@@ -8,20 +8,20 @@ import (
 )
 
 func main() {
-	linker := FileLinker{}
+	linker := &FileLinker{}
 	linker.linkAll()
 }
 
 type FileLinker struct {
 	root string
+	home string
 }
 
 func (linker FileLinker) linkAll() {
+	linker.init()
 	linker.changeToHome()
 	err := filepath.Walk(".", func(path string, info fs.FileInfo, err error) error {
-		if !info.IsDir() {
-			linker.link(path)
-		}
+		linker.tryLink(path, info)
 		return nil
 	})
 
@@ -33,14 +33,14 @@ func (linker FileLinker) linkAll() {
 func (linker FileLinker) changeToHome() {
 	err := os.Chdir("home")
 	if err != nil {
-		println("could not change directory to home")
+		println(err.Error())
 	}
 }
 
 func (linker FileLinker) link(path string) {
 	source := filepath.Join("./", path)
-	target := filepath.Join("/home/quirinecker", path)
-	fmt.Printf("%s -> %s  \n", target, source)
+	target := filepath.Join(linker.home, path)
+	fmt.Printf("linking %s -> %s  \n", target, source)
 
 	deleteError := os.Remove(target)
 	linkError := os.Link(source, target)
@@ -52,4 +52,29 @@ func (linker FileLinker) link(path string) {
 		println(deleteError.Error())
 	}
 
+}
+
+func (linker FileLinker) init() {
+	homeDir, err := os.UserHomeDir()
+	if err != nil {
+		println(err.Error)
+	} else {
+		linker.home = homeDir
+
+		fmt.Printf("local: %s | global: %s", homeDir, linker.home)
+	}
+}
+
+func (linker FileLinker) tryLink(path string, info os.FileInfo) {
+	if !info.IsDir() {
+		println("linking")
+		linker.link(path)
+	} else {
+		err := os.Mkdir(filepath.Join(linker.home, path), os.ModePerm)
+		if err != nil && !os.IsExist(err) {
+			println(err.Error())
+		} else if err == nil {
+			linker.tryLink(path, info)
+		}
+	}
 }
