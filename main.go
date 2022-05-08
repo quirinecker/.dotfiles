@@ -51,7 +51,7 @@ func (binder binder) decryptSecretFiles() {
 	out, err := cmd.Output()
 
 	if err != nil {
-		println(err)
+		println(err.Error())
 	}
 
 	println(string(out))
