@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"io/fs"
 	"os"
+	"os/exec"
 	"path/filepath"
 )
 
@@ -34,6 +35,7 @@ type binder struct {
 
 func (binder binder) bind() {
 	binder.switchToSourceDirectory()
+	binder.decryptSecretFiles()
 	binder.linkFiles()
 }
 
@@ -42,6 +44,17 @@ func (binder binder) switchToSourceDirectory() {
 	if err != nil {
 		println(err.Error())
 	}
+}
+
+func (binder binder) decryptSecretFiles() {
+	cmd := exec.Command("git", "secret", "reveal", "-f")
+	out, err := cmd.Output()
+
+	if err != nil {
+		println(err)
+	}
+
+	println(string(out))
 }
 
 func (binder binder) linkFiles() {
@@ -57,7 +70,6 @@ func (binder binder) linkFiles() {
 
 func (binder binder) tryLink(path string, info os.FileInfo) {
 	if !info.IsDir() {
-		println("linking")
 		binder.link(path)
 	} else {
 		err := os.Mkdir(filepath.Join(binder.target, path), os.ModePerm)
@@ -72,7 +84,7 @@ func (binder binder) tryLink(path string, info os.FileInfo) {
 func (binder binder) link(path string) {
 	source := filepath.Join("./", path)
 	target := filepath.Join(binder.target, path)
-	fmt.Printf("linking %s -> %s  \n", target, source)
+	fmt.Printf("linking %s -> %s  \n", source, target)
 
 	deleteError := os.Remove(target)
 	linkError := os.Link(source, target)
@@ -80,7 +92,7 @@ func (binder binder) link(path string) {
 		println(linkError.Error())
 	}
 
-	if deleteError != nil {
+	if deleteError != nil && !os.IsNotExist(deleteError) {
 		println(deleteError.Error())
 	}
 }

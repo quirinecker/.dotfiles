@@ -1,2 +1,9 @@
 .gitsecret/keys/random_seed
 !*.secret
+home/.ssh/discordpi
+home/.ssh/homepc
+home/.ssh/id_rsa
+home/.ssh/oravm
+home/.ssh/qmacpc
+home/.ssh/student-reaper-key
+home/.ssh/vm139
