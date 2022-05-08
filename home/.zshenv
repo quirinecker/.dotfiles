@@ -20,7 +20,7 @@ alias javah17='export JAVA_HOME=$JAVA_HOME_17'
 
 source /usr/share/nvm/init-nvm.sh
 
-# OWN
+# custom scripts
 
 export PATH=/home/quirinecker/.scripts/:$PATH
 
