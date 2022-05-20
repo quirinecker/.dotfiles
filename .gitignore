@@ -7,3 +7,5 @@ home/.ssh/oravm
 home/.ssh/qmacpc
 home/.ssh/student-reaper-key
 home/.ssh/vm139
+
+/go.sum
