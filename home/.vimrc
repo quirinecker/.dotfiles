@@ -12,6 +12,8 @@ set autoindent
 set noexpandtab
 set tabstop=2
 set shiftwidth=2
+set number relativenumber
+set nowrap
 
 " Markdown Live Preview
 
