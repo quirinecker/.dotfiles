@@ -1,9 +1,15 @@
+" MapLeader
+
+let mapleader = "."
 
 " Plugins
 
 call plug#begin('~/.vim/plugged')
 Plug 'junegunn/vim-plug'
 Plug 'instant-markdown/vim-instant-markdown', {'for': ['markdown', 'markdown.pandoc']}
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'nvim-telescope/telescope.nvim'
+Plug 'nvim-lua/plenary.nvim'
 call plug#end()
 
 " Configurations
@@ -39,6 +45,12 @@ let g:instant_markdown_mermaid = 1
 "let g:instant_markdown_port = 8888
 "let g:instant_markdown_python = 1
 
+
+" Vim CoC COnfiguration
+
+source ~/.vimcoc.vim
+
 " Mappings
 
 inoremap <S-Tab> <C-d>
+nnoremap <Leader> lor

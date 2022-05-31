@@ -10,3 +10,7 @@ export PATH=/home/quirinecker/.scripts/:$PATH
 
 export PATH=./node_modules/.bin:$PATH
 
+# NeoVim Alias
+
+alias v=nvim
+
