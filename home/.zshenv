@@ -14,3 +14,4 @@ export PATH=./node_modules/.bin:$PATH
 
 alias v=nvim
 
+
