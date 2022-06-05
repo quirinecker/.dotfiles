@@ -1,0 +1,303 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value=".dotfiles" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/init.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GitResources.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/go.mod">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="GitIgnore file">
+      <summary usageCount="5" lastUsed="1653392592119" />
+    </fileType>
+    <fileType name="Go">
+      <summary usageCount="6" lastUsed="1653392591991" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="7" lastUsed="1653392592096" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="2" lastUsed="1653008136587" />
+    </fileType>
+    <fileType name="go.mod">
+      <summary usageCount="6" lastUsed="1653392592130" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/init.go" />
+      <option value="$PROJECT_DIR$/GitResources.json" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/init.go" />
+      <option value="$PROJECT_DIR$/go.mod" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name=".dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".dotfiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".dotfiles" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".dotfiles" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name=".mozilla" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".dotfiles" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name=".mozilla" type="462c0819:PsiDirectoryNode" />
+              <item name="firefox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".dotfiles" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name=".zsh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".dotfiles" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name=".zsh" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".dotfiles" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name=".zsh" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".dotfiles" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".dotfiles" type="462c0819:PsiDirectoryNode" />
+              <item name="go.mod" type="620a8d5e:NestingTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Go Build.go build .dotfiles" executorId="Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12828000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Commit" weight="0.3297244" />
+      <window_info id="Bookmarks" order="0" sideWeight="0.49961776" side_tool="true" weight="0.13691406" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.5003823" visible="true" weight="0.1376494" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.32965076" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32965076" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965076" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Endpoints" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32965076" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Notifications" order="1" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Find</value>
+      <value>Commit</value>
+      <value>Messages</value>
+      <value>Bookmarks</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1070" y="1821" width="400" height="684" key="#GOPATH" timestamp="1652993994555">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="1070" y="1821" width="400" height="684" key="#GOPATH/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1652993994555" />
+    <state x="1070" y="2093" width="410" height="141" key="#GOROOT" timestamp="1652993962552">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="1070" y="2093" width="410" height="141" key="#GOROOT/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1652993962552" />
+    <state x="748" y="1821" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653005903721">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="748" y="1821" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1653005903721" />
+    <state x="1003" y="1908" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1653007905452">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="1003" y="1908" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1653007905452" />
+    <state x="1454" y="1927" width="424" height="491" key="FileChooserDialogImpl" timestamp="1653392633521">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="1454" y="1927" width="424" height="491" key="FileChooserDialogImpl/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1653392633521" />
+    <state width="2494" height="434" key="GridCell.Tab.0.bottom" timestamp="1653009706146">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state width="2494" height="434" key="GridCell.Tab.0.bottom/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1653009706146" />
+    <state width="2494" height="434" key="GridCell.Tab.0.center" timestamp="1653009706146">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state width="2494" height="434" key="GridCell.Tab.0.center/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1653009706146" />
+    <state width="2494" height="434" key="GridCell.Tab.0.left" timestamp="1653009706146">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state width="2494" height="434" key="GridCell.Tab.0.left/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1653009706146" />
+    <state width="2494" height="434" key="GridCell.Tab.0.right" timestamp="1653009706146">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state width="2494" height="434" key="GridCell.Tab.0.right/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1653009706146" />
+    <state x="544" y="1858" width="1022" height="737" key="SettingsEditor" timestamp="1653185121381">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="544" y="1858" width="1022" height="737" key="SettingsEditor/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1653185121381" />
+    <state width="498" height="392" key="SwitcherDM" timestamp="1652995020298">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state width="498" height="392" key="SwitcherDM/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1652995020298" />
+    <state x="1129" y="1867" width="272" height="592" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1653007197541">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="1129" y="1867" width="272" height="592" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1653007197541" />
+    <state x="943" y="1769" width="672" height="687" key="search.everywhere.popup" timestamp="1653001798648">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="943" y="1769" width="672" height="687" key="search.everywhere.popup/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1653001798648" />
+    <state x="995" y="1988" width="540" height="351" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1653007239528">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="995" y="1988" width="540" height="351" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1653007239528" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/go.sum">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1250" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/.zshenv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GitResources.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

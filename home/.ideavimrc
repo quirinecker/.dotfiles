@@ -1,0 +1,26 @@
+" Sourcing Configurations
+
+source ~/.config/nvim/mapleader.vim
+source ~/.config/nvim/plugins.vim
+source ~/.config/nvim/preferences.vim
+source ~/.config/nvim/basic-mappings.vim
+source ~/.config/nvim/split-mappings.vim
+source ~/.config/nvim/commands.vim
+
+"" -- Map IDE actions to IdeaVim -- https://jb.gg/abva4t
+"" Map \r to the Reformat Code action
+"map \r <Action>(ReformatCode)
+
+"" Map <leader>d to start debug
+"map <leader>d <Action>(Debug)
+
+"" Map \b to toggle the breakpoint on the current line
+"map \b <Action>(ToggleLineBreakpoint)
+
+
+" Find more examples here: https://jb.gg/share-ideavimrc
+
+" Mapping Override
+
+sethandler <S-M-h> a:vim 
+sethandler <S-M-l> a:vim

@@ -1,0 +1,315 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">Z2l0UmVzb3VyY2U=</entry>
+        <entry encoding="base64">YmluZCg=</entry>
+        <entry encoding="base64">cG9zdFJ1big=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">c291cmNlIH4vLmlkZWF2aW1yYw==</entry>
+        <entry encoding="base64">c291cmNlIH4vLmNvbmZpZy9udmltL2luaXQudmlt</entry>
+        <entry encoding="base64">Y2FsbCBTaG93RG9jdW1lbnRhdGlvbigp</entry>
+        <entry encoding="base64">bWFwIDxTLU0taD4=</entry>
+        <entry encoding="base64">bWFwcGluZyA8Uy1NLWg+</entry>
+        <entry encoding="base64">TkVSRFRyZWU=</entry>
+        <entry encoding="base64">TkVSRFRyZWVUb2dnbGU=</entry>
+        <entry encoding="base64">ZSB+Ly5jb25maWcvbnZpbS9wbHVnaW5zLnZpbQ==</entry>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">ZSB+Ly5jb25maWcvbnZpbS9tYXBsZWFkZXIudmlt</entry>
+        <entry encoding="base64">Y2xlYXJtYXA=</entry>
+        <entry encoding="base64">bWFwY2xlYXI=</entry>
+        <entry encoding="base64">c291cmNlICU=</entry>
+        <entry encoding="base64">YmQ=</entry>
+        <entry encoding="base64">ZSB+Ly5jb25maWcvbnZpbS9iYXNpYy1tYXBwaW5ncy52aW0=</entry>
+        <entry encoding="base64">c3BsaXQ=</entry>
+        <entry encoding="base64">dnM=</entry>
+        <entry encoding="base64">bWFw</entry>
+        <entry encoding="base64">ZSB+Ly5jb25maWcvbnZpbS9zcGxpdC1tYXBwaW5ncy52aW0=</entry>
+        <entry encoding="base64">ZSB+Ly52aW1yYw==</entry>
+        <entry encoding="base64">VmltQ29uZmln</entry>
+        <entry encoding="base64">VmltQ29uZmlnIA==</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">ZSB+Ly5pZGVhdmltcmM=</entry>
+        <entry encoding="base64">d2E=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" timestamp="1654432165102">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="32" column="3" />
+        <mark key="]" line="32" column="3" />
+        <mark key="." line="32" column="2" />
+        <mark key="^" line="32" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/content/video/video-data.json" timestamp="1654433612895">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/components/NavigationEntry.vue" timestamp="1654392979194">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/assets/css/main.css" timestamp="1654393537111">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/components/MainPage.vue" timestamp="1654432982540">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="20" />
+      </file>
+      <file name="/Unnamed.txt.ft" timestamp="1654433590586">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/content/about/about-data.json" timestamp="1654390183260">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/components/VideoSegment.vue" timestamp="1654433471752">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="22" column="11" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1654433571106">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.vm" timestamp="1654390891408">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/components/TeamSegment.vue" timestamp="1654433468465">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="30" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1654432635167">
+        <mark key="i" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/components/HomeSegment.vue" timestamp="1654388788891">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="43" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/components/Navigation.vue" timestamp="1654388779239">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSectionEntry.vue" timestamp="1654388599158">
+        <mark key="'" line="62" column="10" />
+        <mark key="[" line="62" column="11" />
+        <mark key="]" line="62" column="11" />
+        <mark key="." line="62" column="12" />
+        <mark key="^" line="62" column="12" />
+      </file>
+      <file name="/file name.txt.ft" timestamp="1654433572876">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" timestamp="1654393567463">
+        <mark key="'" line="16" column="0" />
+        <mark key="k" line="69" column="1" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="19" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="102" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/content/footer/footer-data.json" timestamp="1654391014703">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="8" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/content/navigation/navigation-data.json" timestamp="1654432552657">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/leo-iot.github.io/content/preview/preview-data.json" timestamp="1654388457604">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="27" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="118" column="0" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="59" column="17" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="117" column="26" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="117" column="33" filename="$USER_HOME$/.dotfiles/src/init.go" />
+      <jump line="9" column="0" filename="$USER_HOME$/.dotfiles/src/init.go" />
+      <jump line="10" column="18" filename="$USER_HOME$/.dotfiles/src/init.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/.dotfiles/src/init.go" />
+      <jump line="144" column="0" filename="$USER_HOME$/.dotfiles/src/init.go" />
+      <jump line="12" column="0" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="102" column="0" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="129" column="44" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="113" column="20" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="41" column="27" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="80" column="12" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="14" column="4" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="28" column="5" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="31" column="11" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="127" column="0" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="15" column="56" filename="$USER_HOME$/.dotfiles/GitResources.json" />
+      <jump line="17" column="0" filename="$USER_HOME$/.dotfiles/GitResources.json" />
+      <jump line="134" column="54" filename="$USER_HOME$/.dotfiles/init.go" />
+      <jump line="14" column="44" filename="$USER_HOME$/Documents/projects/implo-place/server/Dockerfile" />
+      <jump line="13" column="9" filename="$USER_HOME$/Documents/projects/implo-place/web/src/app/components/board/board.component.html" />
+      <jump line="27" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="16" column="43" filename="$USER_HOME$/Documents/projects/implo-place/server/Dockerfile" />
+      <jump line="111" column="0" filename="$USER_HOME$/.config/nvim/init.vim" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/projects/implo-place/server/README.md" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/projects/implo-place/server/Dockerfile" />
+      <jump line="1" column="21" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/projects/implo-place/server/Dockerfile" />
+      <jump line="18" column="0" filename="$USER_HOME$/.config/nvim/init.vim" />
+      <jump line="3" column="25" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="0" column="0" filename="$USER_HOME$/.config/nvim/basic-mappings.vim" />
+      <jump line="5" column="7" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/projects/implo-place/web/src/environments/environment.ts" />
+      <jump line="20" column="55" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="6" column="7" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="5" column="29" filename="$USER_HOME$/.config/nvim/split-mappings.vim" />
+      <jump line="6" column="0" filename="$USER_HOME$/.config/nvim/split-mappings.vim" />
+      <jump line="7" column="1" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="55" column="0" filename="$USER_HOME$/.vimrc" />
+      <jump line="0" column="39" filename="$USER_HOME$/.vimrc" />
+      <jump line="12" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/projects/implo-place/web/src/app/components/board/board.component.html" />
+      <jump line="9" column="5" filename="$USER_HOME$/Documents/projects/implo-place/web/src/app/components/board/board.component.html" />
+      <jump line="41" column="14" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/TechnologyEntry.vue" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/TechnologyEntry.vue" />
+      <jump line="42" column="5" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="62" column="10" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSectionEntry.vue" />
+      <jump line="50" column="2" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="82" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="3" column="31" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="76" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="81" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="74" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="94" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="92" column="63" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/AboutSegment.vue" />
+      <jump line="63" column="8" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/PreviewSegment.vue" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/TeamSegment.vue" />
+      <jump line="29" column="1" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/VideoSegment.vue" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/TeamSegment.vue" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/TeamSegment.vue" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/TeamSegment.vue" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/TeamSegment.vue" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/TeamSegment.vue" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/TeamSegment.vue" />
+      <jump line="15" column="13" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/VideoSegment.vue" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/VideoSegment.vue" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/VideoSegment.vue" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/projects/leo-iot.github.io/components/VideoSegment.vue" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB0ZWFtOiBUZWFtRGF0YSB8IG51bGwgPSBudWxsCgogIGFzeW5jIGNyZWF0ZWQoKSB7CiAgICB0aGlzLnRlYW0gPSAoYXdhaXQgdGhpcy4kbnV4dC5jb250ZXh0CiAgICAgIC4kY29udGVudCgndGVhbS90ZWFtLWRhdGEnKQogICAgICAuZmV0Y2goKSkgYXMgYW55CiAgfQo=</text>
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">ICB0ZWFtOiBUZWFtRGF0YSB8IG51bGwgPSBudWxsCgogIGFzeW5jIGNyZWF0ZWQoKSB7CiAgICB0aGlzLnRlYW0gPSAoYXdhaXQgdGhpcy4kbnV4dC5jb250ZXh0CiAgICAgIC4kY29udGVudCgndGVhbS90ZWFtLWRhdGEnKQogICAgICAuZmV0Y2goKSkgYXMgYW55CiAgfQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">KQ==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64" />
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">cG9zdFJ1big=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICB0ZWFtOiBUZWFtRGF0YSB8IG51bGwgPSBudWxsCgogIGFzeW5jIGNyZWF0ZWQoKSB7CiAgICB0aGlzLnRlYW0gPSAoYXdhaXQgdGhpcy4kbnV4dC5jb250ZXh0CiAgICAgIC4kY29udGVudCgndGVhbS90ZWFtLWRhdGEnKQogICAgICAuZmV0Y2goKSkgYXMgYW55CiAgfQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogIG5hbWU6ICJWaWRlb1NlZ21lbnQiCn0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">amQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cmVtb3ZlZCB1bnVzZWQgZnVuY3Rpb24gaW4gdGhlIHByZXZpZXcgc2VnbWVudCByb290IGNvbXBvbmVudAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgInRleHQiOiAiVGVhbSIsCiAgICAgICJlbGVtZW50IjogIiN0ZWFtIgogICAgfSwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgPFRlYW1TZWdtZW50IC8+CiAgICAgIDxkaXYgaWQ9InRlY2hub2xvZ3kiIGNsYXNzPSJhbmNob3IiIC8+Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">d2E=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">cG9zdFJ1big=</last-search>
+      <last-pattern encoding="base64">cG9zdFJ1big=</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

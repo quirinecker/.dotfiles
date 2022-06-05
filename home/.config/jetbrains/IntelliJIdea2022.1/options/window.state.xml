@@ -1,0 +1,223 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.1440.5120.1440" x="1675" y="1575" />
+    <size key="GridCell.Tab.0.left.0.1440.5120.1440" width="2494" height="434" />
+    <size key="GridCell.Tab.0.center.0.1440.5120.1440" width="2494" height="434" />
+    <size key="GridCell.Tab.0.right.0.1440.5120.1440" width="2494" height="434" />
+    <size key="GridCell.Tab.0.bottom.0.1440.5120.1440" width="2494" height="434" />
+    <size key="find.popup.0.1440.5120.1440" width="591" height="768" />
+  </component>
+  <component name="ToolWindowLayout">{
+  &quot;v1&quot;: [
+    {
+      &quot;id&quot;: &quot;Pull Requests&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Commit&quot;,
+      &quot;isAutoHide&quot;: true,
+      &quot;weight&quot;: 0.32960528
+    },
+    {
+      &quot;id&quot;: &quot;Bookmarks&quot;,
+      &quot;order&quot;: 0,
+      &quot;isShowStripeButton&quot;: false,
+      &quot;weight&quot;: 0.16369565,
+      &quot;sideWeight&quot;: 0.499409,
+      &quot;isSplit&quot;: true
+    },
+    {
+      &quot;id&quot;: &quot;Structure&quot;,
+      &quot;order&quot;: 1,
+      &quot;isSplit&quot;: true
+    },
+    {
+      &quot;id&quot;: &quot;Persistence&quot;,
+      &quot;order&quot;: 2,
+      &quot;isShowStripeButton&quot;: false,
+      &quot;isSplit&quot;: true
+    },
+    {
+      &quot;id&quot;: &quot;Project&quot;,
+      &quot;order&quot;: 3,
+      &quot;isAutoHide&quot;: true,
+      &quot;floatingBounds&quot;: [
+        963,
+        1737,
+        374,
+        846
+      ],
+      &quot;contentUiType&quot;: &quot;COMBO&quot;,
+      &quot;weight&quot;: 0.16316965,
+      &quot;sideWeight&quot;: 0.50059104
+    },
+    {
+      &quot;id&quot;: &quot;Learn&quot;,
+      &quot;order&quot;: 4
+    },
+    {
+      &quot;id&quot;: &quot;Version Control&quot;,
+      &quot;order&quot;: 0,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.32965076
+    },
+    {
+      &quot;id&quot;: &quot;Find&quot;,
+      &quot;order&quot;: 1,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Run&quot;,
+      &quot;order&quot;: 2,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Debug&quot;,
+      &quot;order&quot;: 3,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.4
+    },
+    {
+      &quot;id&quot;: &quot;Database Changes&quot;,
+      &quot;order&quot;: 4,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;isShowStripeButton&quot;: false,
+      &quot;weight&quot;: 0.32965076
+    },
+    {
+      &quot;id&quot;: &quot;Endpoints&quot;,
+      &quot;order&quot;: 5,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;isShowStripeButton&quot;: false,
+      &quot;weight&quot;: 0.32965076
+    },
+    {
+      &quot;id&quot;: &quot;Build&quot;,
+      &quot;order&quot;: 6,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.32965076
+    },
+    {
+      &quot;id&quot;: &quot;Dependencies&quot;,
+      &quot;order&quot;: 7,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.32965076
+    },
+    {
+      &quot;id&quot;: &quot;Messages&quot;,
+      &quot;order&quot;: 8,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.32965076
+    },
+    {
+      &quot;id&quot;: &quot;Java Enterprise&quot;,
+      &quot;order&quot;: 9,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;isShowStripeButton&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;Inspection&quot;,
+      &quot;order&quot;: 10,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.4
+    },
+    {
+      &quot;id&quot;: &quot;Services&quot;,
+      &quot;order&quot;: 11,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.32965076
+    },
+    {
+      &quot;id&quot;: &quot;Profiler&quot;,
+      &quot;order&quot;: 12,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;isShowStripeButton&quot;: false,
+      &quot;weight&quot;: 0.32965076
+    },
+    {
+      &quot;id&quot;: &quot;Maven&quot;,
+      &quot;order&quot;: 0,
+      &quot;anchor&quot;: &quot;RIGHT&quot;,
+      &quot;isShowStripeButton&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;CDI&quot;,
+      &quot;order&quot;: 1,
+      &quot;anchor&quot;: &quot;RIGHT&quot;,
+      &quot;isShowStripeButton&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;Bean Validation&quot;,
+      &quot;order&quot;: 2,
+      &quot;anchor&quot;: &quot;RIGHT&quot;,
+      &quot;isShowStripeButton&quot;: false
+    },
+    {
+      &quot;id&quot;: &quot;com.haulmont.jpb.jpaInspector&quot;,
+      &quot;order&quot;: 3,
+      &quot;anchor&quot;: &quot;RIGHT&quot;,
+      &quot;isSplit&quot;: true
+    },
+    {
+      &quot;id&quot;: &quot;Notifications&quot;,
+      &quot;order&quot;: 4,
+      &quot;anchor&quot;: &quot;RIGHT&quot;,
+      &quot;isShowStripeButton&quot;: false,
+      &quot;weight&quot;: 0.25
+    },
+    {
+      &quot;id&quot;: &quot;com.haulmont.jpb.jpaPalette&quot;,
+      &quot;order&quot;: 5,
+      &quot;anchor&quot;: &quot;RIGHT&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Terminal&quot;,
+      &quot;order&quot;: 6,
+      &quot;anchor&quot;: &quot;RIGHT&quot;,
+      &quot;weight&quot;: 0.33004385
+    },
+    {
+      &quot;id&quot;: &quot;Problems View&quot;,
+      &quot;order&quot;: 7,
+      &quot;anchor&quot;: &quot;RIGHT&quot;,
+      &quot;weight&quot;: 0.3297826
+    },
+    {
+      &quot;id&quot;: &quot;TODO&quot;,
+      &quot;order&quot;: 8,
+      &quot;anchor&quot;: &quot;RIGHT&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Database&quot;,
+      &quot;order&quot;: 9,
+      &quot;anchor&quot;: &quot;RIGHT&quot;,
+      &quot;isAutoHide&quot;: true,
+      &quot;weight&quot;: 0.3297826,
+      &quot;isSplit&quot;: true
+    },
+    {
+      &quot;id&quot;: &quot;com.haulmont.jpb.jpaStructure&quot;,
+      &quot;order&quot;: 10,
+      &quot;anchor&quot;: &quot;RIGHT&quot;,
+      &quot;weight&quot;: 0.16282609,
+      &quot;sideWeight&quot;: 0.49961776,
+      &quot;isSplit&quot;: true
+    }
+  ]
+}</component>
+  <component name="WindowManager">
+    <frame x="0" y="1440" width="3840" height="1440" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="1418" y="2661" width="300" height="187" key="ProcessPopupWindow" timestamp="1653002196375">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="1418" y="2661" width="300" height="187" key="ProcessPopupWindow/0.1440.5120.1440/285.0.2560.1440" timestamp="1653002196375" />
+    <state x="2560" y="2028" width="800" height="650" key="WELCOME_SCREEN" timestamp="1654432082663">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="2560" y="2028" width="800" height="650" key="WELCOME_SCREEN/0.1440.5120.1440/474.0.2560.1440" timestamp="1654386802972" />
+    <state x="1305" y="2289" width="800" height="650" key="WELCOME_SCREEN/0.1440.5120.1440/537.0.2560.1440" timestamp="1652914616263" />
+    <state x="2560" y="2028" width="800" height="650" key="WELCOME_SCREEN/0.1440.5120.1440/668.0.2560.1440" timestamp="1652946697710" />
+    <state x="2560" y="2028" width="800" height="650" key="WELCOME_SCREEN/0.1440.5120.1440/718.0.2560.1440" timestamp="1654432082663" />
+  </component>
+</application>

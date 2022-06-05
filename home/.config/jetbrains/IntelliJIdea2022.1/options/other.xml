@@ -1,0 +1,97 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="29OosyDRI0iZEEqIKyvi3zznB2S">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29brU5F8fvHb0O6DBGQlfQZ8s9Q">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2A5f6Z4EfjiGfg8mBVWx79R2WJk">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CUSTOMIZE_ACTIONS": "generae",
+    "CWM_LOGGING_VERSION": "1",
+    "EXPORTABILITY_SORTER.file.structure.state": "true",
+    "ExpandBeforeRunStepsPanel": "true",
+    "FileTemplates.SelectedTemplate": "Json",
+    "GO_TAG_FIELD_NAME_STYLE": "snake",
+    "InstalledPluginsSearchHistory": "welcome\nangular\nvuejs\nvuej\nvue",
+    "KEYMAP": "focus editor\nfocus edi\nwelcome\nterminal\ngenerate",
+    "MarketplacePluginsSearchHistory": "shadow\ncss\ncss shado\ncss shadow\nshadow generator",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.go.enabled.exportability.sorter": "true",
+    "RunOnceActivity.go.libraries.notification.had.been.shown": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SHELLCHECK.PATH": "/home/quirinecker/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/221.5591.52.plugins/Shell Script/shellcheck",
+    "SettingsSearchHistory": "Tools\nWindow\nwelcome\nvim\ntab placemen",
+    "appcds.runOnSecondStart": "IU-221.5787.30-65ffebe154accc41c5e3c31984e5fc90263cdfb953d9d0479d5601942b4e31ed",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IU-221.5787.30",
+    "defaultpackageserviceconfig.fulltext": "https://package-search.services.jetbrains.com/api/search/idea/fulltext",
+    "defaultpackageserviceconfig.suggest": "https://package-search.services.jetbrains.com/api/search/idea/suggest",
+    "defaultpackageserviceconfig.updated.ts": "1654252249704",
+    "eclipse.projects.detected": "",
+    "evlsprt3.221": "25",
+    "file.gist.reindex.count": "24",
+    "fileTypeChangedCounter": "6",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "gotit.previous.run": "IU-221.5787.30",
+    "ide.updates.whats.new.shown.for": "221",
+    "ideavim.statistics.timestamp": "1654350699181",
+    "ift.learning.panel.opened.in": "221.5787.30",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "221-1.6.21-release-337-IJ5787.30",
+    "last_opened_file_path": "/home/quirinecker/Downloads/home_background.jpg",
+    "org.intellij.images.editor.actions.BackgroundImageDialog#recent": "/home/quirinecker/Downloads/home_background.jpg",
+    "org.jetbrains.plugins.go.LAST_UPDATE": "1653392593746",
+    "org.jetbrains.plugins.go.LAST_VERSION": "221.5591.52",
+    "registry.to.advanced.settings.migration.build": "IU-221.5787.30",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.6.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/quirinecker/Documents/projects/leo-iot.github.io",
+      "/home/quirinecker/Downloads/home_background.jpg",
+      "/home/quirinecker/Documents/projects/implo-place",
+      "/home/quirinecker/.dotfiles/src",
+      "/home/quirinecker/.dotfiles",
+      "/usr/lib/golang"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="leo-iot.github.io-history1" project-path="$USER_HOME$/Documents/projects/leo-iot.github.io" last-access-time="1654432088853" />
+    </command-history-files>
+  </component>
+  <component name="TerminalUiSettingsManager">
+    <option name="cursorShape" value="VERTICAL" />
+  </component>
+</application>

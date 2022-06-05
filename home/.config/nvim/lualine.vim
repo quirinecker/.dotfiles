@@ -48,7 +48,7 @@ require('lualine').setup {
     lualine_a = {
       { 'mode', separator = { left = ' ', right = '' }, right_padding = 2, right_margin = 5},
     },
-    lualine_b = { 'hostname', 'filename' ,'branch', 'diff' },
+    lualine_b = { 'filename' ,'branch', 'diff' },
     lualine_c = { 'fileformat' },
     lualine_x = { },
     lualine_y = { 'filetype', 'progress'},

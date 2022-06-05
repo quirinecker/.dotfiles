@@ -1,0 +1,564 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="leo-iot.github.io" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/content/navigation/navigation-data.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="312">
+                  <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/content/footer/footer-data.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/NavigationEntry.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1222">
+                  <caret line="48" selection-start-line="48" selection-end-line="48" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret line="18" selection-start-line="18" selection-end-line="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/PreviewSegment.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="285">
+                  <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+                  <folding>
+                    <element signature="e#262#317#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pages/index.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="26">
+                  <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/MainPage.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="364">
+                  <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#585#606#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/VideoSegment.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="520">
+                  <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+                  <folding>
+                    <element signature="e#446#487#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/content/video/video-data.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="26">
+                  <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/PreviewSectionEntry.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1196">
+                  <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/components/VideoSegment.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="182">
+                  <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/components/TeamSegment.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="78">
+                  <caret line="3" selection-start-line="3" selection-end-line="3" />
+                  <folding>
+                    <element signature="e#294#349#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CSS">
+      <summary usageCount="2" lastUsed="1654432088286" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1654391969704" />
+    </fileType>
+    <fileType name="EditorConfig">
+      <summary usageCount="9" lastUsed="1654386814337" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="9" lastUsed="1654386814356" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="8" lastUsed="1654433610514" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="11" lastUsed="1654388165768" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1654351139287" />
+    </fileType>
+    <fileType name="Vue.js">
+      <summary usageCount="25" lastUsed="1654432742364" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.text-con</find>
+      <find>.text-containe</find>
+      <find>.text</find>
+      <find>box-shadow</find>
+      <find>logo.png</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/components</dir>
+      <dir>$PROJECT_DIR$/content/footer</dir>
+    </dirStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/components/Navigation.vue" />
+      <option value="$PROJECT_DIR$/content/preview/preview-text-model3d.md" />
+      <option value="$PROJECT_DIR$/content/preview/preview-data.json" />
+      <option value="$PROJECT_DIR$/components/PreviewSectionEntry.vue" />
+      <option value="$PROJECT_DIR$/components/HomeSegment.vue" />
+      <option value="$PROJECT_DIR$/content/about/about-data.json" />
+      <option value="$PROJECT_DIR$/content/footer/footer-data.json" />
+      <option value="$PROJECT_DIR$/assets/css/main.css" />
+      <option value="$PROJECT_DIR$/components/AboutSegment.vue" />
+      <option value="$PROJECT_DIR$/components/PreviewSegment.vue" />
+      <option value="$PROJECT_DIR$/content/navigation/navigation-data.json" />
+      <option value="$PROJECT_DIR$/components/MainPage.vue" />
+      <option value="$PROJECT_DIR$/components/VideoSegment.vue" />
+      <option value="$PROJECT_DIR$/content/video/video-data.json" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leo-iot.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leo-iot.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leo-iot.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leo-iot.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leo-iot.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leo-iot.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leo-iot.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leo-iot.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leo-iot.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leo-iot.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leo-iot.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leo-iot.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leo-iot.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leo-iot.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="technology" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leo-iot.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leo-iot.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="video" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leo-iot.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leo-iot.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="leo-iot.github.io-history1" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9300000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Pull Requests" />
+      <window_info auto_hide="true" id="Commit" weight="0.3295573" />
+      <window_info id="Bookmarks" order="0" show_stripe_button="false" sideWeight="0.499409" side_tool="true" weight="0.16369565" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Persistence" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info auto_hide="true" content_ui="combo" x="963" y="1737" width="374" height="846" id="Project" order="3" sideWeight="0.50059104" weight="0.16315104" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Internal Method Tracing" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Dependency Checker" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32965076" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" weight="0.32965076" />
+      <window_info anchor="bottom" id="Endpoints" order="5" show_stripe_button="false" weight="0.32965076" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32965076" />
+      <window_info anchor="bottom" id="Dependencies" order="7" weight="0.32965076" />
+      <window_info anchor="bottom" id="Messages" order="8" visible="true" weight="0.32965076" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Services" order="11" weight="0.32965076" />
+      <window_info anchor="bottom" id="Profiler" order="12" show_stripe_button="false" weight="0.32965076" />
+      <window_info anchor="right" id="Layout Validation" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Maven" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="CDI" order="1" show_stripe_button="false" />
+      <window_info anchor="right" id="Bean Validation" order="2" show_stripe_button="false" />
+      <window_info anchor="right" id="com.haulmont.jpb.jpaInspector" order="3" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="4" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" id="com.haulmont.jpb.jpaPalette" order="5" />
+      <window_info anchor="right" id="Terminal" order="6" visible="true" weight="0.42747396" />
+      <window_info anchor="right" id="Problems View" order="7" weight="0.3297826" />
+      <window_info anchor="right" id="TODO" order="8" />
+      <window_info anchor="right" auto_hide="true" id="Database" order="9" side_tool="true" weight="0.3297826" />
+      <window_info anchor="right" id="com.haulmont.jpb.jpaStructure" order="10" sideWeight="0.49961776" side_tool="true" weight="0.16282609" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+      <value>Messages</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="1573" width="4096" height="1189" key="DiffContextDialog" timestamp="1654393554892">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="0" y="1573" width="4096" height="1189" key="DiffContextDialog/0.1440.5120.1440/474.0.2560.1440@0.1440.5120.1440" timestamp="1654393554892" />
+    <state x="1648" y="1833" width="534" height="661" key="RollbackChangesDialog" timestamp="1654393555498">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="1648" y="1833" width="534" height="661" key="RollbackChangesDialog/0.1440.5120.1440/474.0.2560.1440@0.1440.5120.1440" timestamp="1654393555498" />
+    <state x="759" y="1795" width="1022" height="737" key="SettingsEditor" timestamp="1654433597232">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="759" y="1795" width="1022" height="737" key="SettingsEditor/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1654351166930" />
+    <state x="759" y="1795" width="1022" height="737" key="SettingsEditor/0.1440.5120.1440/474.0.2560.1440@0.1440.5120.1440" timestamp="1654391000082" />
+    <state x="759" y="1795" key="SettingsEditor/0.1440.5120.1440/718.0.2560.1440@0.1440.5120.1440" timestamp="1654433597232" />
+    <state width="498" height="323" key="SwitcherDM" timestamp="1654433645565">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state width="498" height="323" key="SwitcherDM/0.1440.5120.1440/474.0.2560.1440@0.1440.5120.1440" timestamp="1654393637010" />
+    <state width="498" height="323" key="SwitcherDM/0.1440.5120.1440/718.0.2560.1440@0.1440.5120.1440" timestamp="1654433645565" />
+    <state x="1515" y="1896" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1654393819012">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="1515" y="1896" width="800" height="535" key="Vcs.Push.Dialog.v2/0.1440.5120.1440/474.0.2560.1440@0.1440.5120.1440" timestamp="1654393819012" />
+    <state x="1675" y="1575" width="591" height="768" key="find.popup" timestamp="1654390217638">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="1675" y="1575" width="591" height="768" key="find.popup/0.1440.5120.1440/474.0.2560.1440@0.1440.5120.1440" timestamp="1654390217638" />
+    <state x="1584" y="1055" key="run.anything.popup" timestamp="1654432954190">
+      <screen x="718" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1584" y="1055" key="run.anything.popup/0.1440.5120.1440/718.0.2560.1440@0.1440.5120.1440" timestamp="1654432954190" />
+    <state x="933" y="1769" width="672" height="687" key="search.everywhere.popup" timestamp="1654432742368">
+      <screen x="0" y="1440" width="5120" height="1440" />
+    </state>
+    <state x="933" y="1769" width="672" height="687" key="search.everywhere.popup/0.1440.5120.1440/285.0.2560.1440@0.1440.5120.1440" timestamp="1654350928902" />
+    <state x="933" y="1769" width="672" height="687" key="search.everywhere.popup/0.1440.5120.1440/474.0.2560.1440@0.1440.5120.1440" timestamp="1654393552510" />
+    <state x="933" y="1769" width="672" height="687" key="search.everywhere.popup/0.1440.5120.1440/718.0.2560.1440@0.1440.5120.1440" timestamp="1654432742368" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="org.editorconfig.configmanagement.editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/TechnologySegment.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/TechnologyEntry.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/preview/preview-text-model3d.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/preview/preview-data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Navigation.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#471#526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/HomeSegment.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/AboutSegment.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2626">
+          <caret line="102" column="2" selection-start-line="102" selection-start-column="2" selection-end-line="102" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/about/about-data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/footer/footer-data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/NavigationEntry.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1222">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/PreviewSectionEntry.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/PreviewSegment.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#262#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/navigation/navigation-data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/MainPage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#585#606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/VideoSegment.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/video/video-data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/TeamSegment.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#294#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

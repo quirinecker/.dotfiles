@@ -1,0 +1,4 @@
+{
+	"vetur.trace.server": "verbose",
+	"vetur.validation.template": true
+}

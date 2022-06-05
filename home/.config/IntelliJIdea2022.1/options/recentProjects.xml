@@ -1,0 +1,47 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/.dotfiles">
+          <value>
+            <RecentProjectMetaInfo frameTitle=".dotfiles – init.go" projectWorkspaceId="29OosyDRI0iZEEqIKyvi3zznB2S">
+              <option name="activationTimestamp" value="1653392641245" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5591.52" />
+              <option name="buildTimestamp" value="1652208993371" />
+              <frame x="1" y="1440" width="2510" height="1440" extendedState="4" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1653392638405" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/projects/implo-place">
+          <value>
+            <RecentProjectMetaInfo frameTitle="implo-place" projectWorkspaceId="29brU5F8fvHb0O6DBGQlfQZ8s9Q">
+              <option name="activationTimestamp" value="1654385616357" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5787.30" />
+              <option name="buildTimestamp" value="1654027019205" />
+              <frame x="0" y="1440" width="2230" height="1440" extendedState="4" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1654351212621" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/projects/leo-iot.github.io">
+          <value>
+            <RecentProjectMetaInfo frameTitle="leo-iot.github.io – TeamSegment.vue" opened="true" projectWorkspaceId="2A5f6Z4EfjiGfg8mBVWx79R2WJk">
+              <option name="activationTimestamp" value="1654433648292" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-221.5787.30" />
+              <option name="buildTimestamp" value="1654026960122" />
+              <frame x="0" y="1440" width="3840" height="1440" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1654432087083" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
