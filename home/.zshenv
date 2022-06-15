@@ -1,6 +1,6 @@
-# Java
+# Operating System specific Stuff 
 
-source ~/.zshjava
+source ~/.zshspecific
 
 # custom scripts
 
